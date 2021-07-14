@@ -53,11 +53,11 @@ public class Professor {
 		this.nome = nome;
 	}
 
-	public BigDecimal getSalrio() {
+	public BigDecimal getSalario() {
 		return salario;
 	}
 
-	public void setSalrio(BigDecimal salario) {
+	public void setSalario(BigDecimal salario) {
 		this.salario = salario;
 	}
 
